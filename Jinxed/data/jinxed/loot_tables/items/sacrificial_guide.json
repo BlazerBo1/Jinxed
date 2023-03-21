@@ -1,0 +1,49 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "item.jinxed.sacrificial_book"
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "item.jinxed.sacrificial_book.desc",
+                  "bold": false,
+                  "italic": false,
+                  "underlined": false,
+                  "strikethrough": false,
+                  "obfuscated": false
+                },
+                {
+                  "translate": "pack.jinxed",
+                  "color": "red",
+                  "bold": true,
+                  "italic": false,
+                  "underlined": false,
+                  "strikethrough": false,
+                  "obfuscated": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:3,pages:['{\"text\":\"\uB000\uB000\uB000\uB000\\\\ua001\",\"color\":\"white\", \"font\":\"jinxed:icon\"}'],title:\"\",author:\"§kInsert Lore\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

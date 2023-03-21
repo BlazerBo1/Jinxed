@@ -1,0 +1,19 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "jinxed:gui/book/book.png",
+      "height": 180,
+      "ascent": 36,
+      "chars": [
+        "\uA001"
+      ]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\uB000": -1
+      }
+    }
+  ]
+}
