@@ -7,7 +7,8 @@
 "item.jinxed.memoir": "§1The Memoir",
 "item.jinxed.memoir.desc": "This book has been here for years...",
 "item.jinxed.voodoo_doll": "Voodoo Doll",
-"item.jinxed.voodoo_doll.desc": "Right click to jinx a mob",
-"item.jinxed.voodoo_doll_pricked": "Voodoo Doll Pricked",
-"item.jinxed.voodoo_doll.desc_pricked": "If you right click any damage you take for the next 5 seconds will effect the jinxed mob."
+"item.jinxed.voodoo_doll.desc": "Right click to jinx a mob.",
+"item.jinxed.voodoo_doll_pricked": "Pricked Voodoo Doll",
+"item.jinxed.voodoo_doll_pricked.desc": "All damage you take will effect the Jinxed mob.",
+"item.jinxed.voodoo_doll_pricked.desc2": "Will be destroyed when pricked."
 }

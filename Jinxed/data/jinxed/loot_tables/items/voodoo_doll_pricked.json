@@ -11,7 +11,7 @@
               "function": "minecraft:set_name",
               "entity": "this",
               "name": {
-                "translate": "item.jinxed.voodoo_doll",
+                "translate": "item.jinxed.voodoo_doll_pricked",
                 "bold": false,
                 "italic": false
               }
@@ -21,7 +21,8 @@
               "entity": "this",
               "lore": [
                 {
-                  "translate": "item.jinxed.voodoo_doll.desc",
+                  "translate": "item.jinxed.voodoo_doll_pricked.desc",
+                  "color": "magenta",
                   "bold": false,
                   "italic": false
                 },
@@ -44,7 +45,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:2}"
+              "tag": "{CustomModelData:3}"
             }
           ]
         }
