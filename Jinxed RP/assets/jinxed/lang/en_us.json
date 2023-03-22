@@ -5,5 +5,9 @@
 "item.jinxed.sacrificial_book": "§4Sacrificial Book",
 "item.jinxed.sacrificial_book.desc": "§8Whoever made this knew what they were doing...",
 "item.jinxed.memoir": "§1The Memoir",
-"item.jinxed.memoir.desc": "This book has been here for years..."
+"item.jinxed.memoir.desc": "This book has been here for years...",
+"item.jinxed.voodoo_doll": "Voodoo Doll",
+"item.jinxed.voodoo_doll.desc": "Right click to jinx a mob",
+"item.jinxed.voodoo_doll_pricked": "Voodoo Doll Pricked",
+"item.jinxed.voodoo_doll.desc_pricked": "If you right click any damage you take for the next 5 seconds will effect the jinxed mob."
 }

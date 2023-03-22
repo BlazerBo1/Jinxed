@@ -1,0 +1,46 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "item.jinxed.voodoo_doll",
+                "bold": false,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "item.jinxed.voodoo_doll.desc",
+                  "bold": false,
+                  "italic": false,
+                  "extra": [
+                    {
+                      "translate": "pack.jinxed",
+                      "bold": false,
+                      "italic": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
