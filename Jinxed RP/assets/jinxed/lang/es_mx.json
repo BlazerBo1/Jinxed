@@ -1,0 +1,13 @@
+{ 
+ "pack.jinxed": "Jinxed", 
+ "item.jinxed.flesh": "Carne", 
+ "item.jinxed.flesh.desc": "This is a desc [ ripción (: ]", 
+ "item.jinxed.sacrificial_book": "§4Libro de Sacrificios", 
+ "item.jinxed.sacrificial_book.desc": "§8 Quien fuera que hiciera esto sabía lo que estaba haciendo...", 
+ "item.jinxed.memoir": "§1Memorias", 
+ "item.jinxed.memoir.desc": "Este libro ha estado aquí desde hace años...", 
+ "item.jinxed.voodoo_doll": "Muñeco Vodoo", 
+ "item.jinxed.voodoo_doll.desc": "Clic derecho para gafar un mob", 
+ "item.jinxed.voodoo_doll_pricked": "Muñeco Vodoo pinchado", 
+ "item.jinxed.voodoo_doll.desc_pricked": "Al hacer clic derecho todo el daño que recibas durante 5s afectará al mob pinchado" 
+ }
