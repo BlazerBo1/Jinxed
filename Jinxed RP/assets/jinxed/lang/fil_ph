@@ -1,0 +1,25 @@
+{ 
+
+ "pack.jinxed: "Maldita", 
+
+ "item.jinxed.flesh": "Laman", 
+
+ "item.jinxed.flesh.desc": "Ito ay deskripsyon", 
+
+ "item.jinxed.sacrificial_book": "§4Sakripisyo libro", 
+
+ "item.jinxed.sacrificial_book.desc": "§Sino nag gawa ito alam nila ano nagagwa nila...", 
+
+ "item.jinxed.memoir": "§1Yung Memoir", 
+
+ "item.jinxed.memoir.desc": "Itong libro dito sang taon...", 
+
+ "item.jinxed.voodoo_doll": "Voodoo Manika", 
+
+ "item.jinxed.voodoo_doll.desc": "Kanan pindot para mag maldita ng hayop", 
+
+ "item.jinxed.voodoo_doll_pricked": "Voodoo Manika Tusok", 
+
+ "item.jinxed.voodoo_doll.desc_pricked": "Kung ikaw na tusok lahat ng sugat nag take kuha sa susunod ng lima ng pangalawa kalooban epekto yung maldta na hayop." 
+
+ }
