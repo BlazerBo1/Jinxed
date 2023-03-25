@@ -5,6 +5,7 @@
   },
   "overrides": [
     {"predicate": {"custom_model_data": 2}, "model": "jinxed:item/voodoo_doll"},
-    {"predicate": {"custom_model_data": 3}, "model": "jinxed:item/voodoo_doll_pricked"}
+    {"predicate": {"custom_model_data": 3}, "model": "jinxed:item/voodoo_doll_pricked"},
+    {"predicate": {"custom_model_data": 4}, "model": "jinxed:item/voodoo_doll_burnt"}
   ]
 }

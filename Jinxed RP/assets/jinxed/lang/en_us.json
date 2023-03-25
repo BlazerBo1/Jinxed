@@ -8,7 +8,13 @@
 "item.jinxed.memoir.desc": "This book has been here for years...",
 "item.jinxed.voodoo_doll": "Voodoo Doll",
 "item.jinxed.voodoo_doll.desc": "Right click to jinx a mob.",
+"item.jinxed.voodoo_doll.desc2": "Shift + Right click while holding an item in your off-hand to Puppatear.",
 "item.jinxed.voodoo_doll_pricked": "Pricked Voodoo Doll",
-"item.jinxed.voodoo_doll_pricked.desc": "All damage you take will effect the Jinxed mob.",
-"item.jinxed.voodoo_doll_pricked.desc2": "Will be destroyed when pricked."
+"item.jinxed.voodoo_doll_pricked.desc": "Right click after you take damage to harm the Jinxed mob.",
+"item.jinxed.voodoo_doll_pricked.desc2": "Use this too much and it might burn.",
+"item.jinxed.voodoo_doll_burnt": "Burnt Voodoo Doll",
+"item.jinxed.voodoo_doll_burnt.desc": "Good job, You burnt it.",
+"item.jinxed.voodoo_doll_burnt.desc2": "Don't worry, You can still use it to smelt things.",
+"block.jinxed.sacrificial_table": "Sacrificial Table",
+"block.jinxed.sacrificial_table.desc": "It's Bleeding?"
 }
