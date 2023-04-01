@@ -35,7 +35,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:1}"
+              "tag": "{CustomModelData:1, Warped: 1b}"
             }
           ]
         }
