@@ -2,10 +2,10 @@
 "pack.jinxed": "Jinxed",
 "item.jinxed.flesh": "Flesh",
 "item.jinxed.flesh.desc": "It writhes in your hands",
-"item.jinxed.sacrificial_book": "§4Sacrificial Book",
+"item.jinxed.sacrificial_book": "§4§lSacrificial Book",
 "item.jinxed.sacrificial_book.desc": "§8Whoever wrote this knew what they were doing",
-"item.jinxed.memoir": "§1The Memoir",
-"item.jinxed.memoir.desc": "This has been here for decades",
+"item.jinxed.memoir": "§1§lThe Memoir",
+"item.jinxed.memoir.desc": "§l§8This has been here for decades",
 "item.jinxed.voodoo_doll": "Voodoo Doll",
 "item.jinxed.voodoo_doll.desc": "Right Click to jinx a mob",
 "item.jinxed.voodoo_doll.desc2": "Shift + Right Click while holding an item in your off-hand to Puppeteer",
@@ -17,6 +17,8 @@
 "item.jinxed.voodoo_doll_burnt.desc2": "As a consolation, you can use it as fuel in a Furnace",
 "item.jinxed.chalk": "Crimson Chalk",
 "item.jinxed.chalk.desc": "§lScribe the Circle",
+"item.jinxed.meat_biscuit": "Meat Biscuit",
+"item.jinxed.meat_biscuit.desc": "I wouldn't advise eating this.",
 "block.jinxed.sacrificial_table": "Sacrificial Table",
 "block.jinxed.sacrificial_table.desc": "It's bleeding?"
 }
