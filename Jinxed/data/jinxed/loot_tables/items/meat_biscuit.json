@@ -32,7 +32,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:1}"
+              "tag": "{CustomModelData:1, biscuit: 1b}"
             }
           ]
         }
