@@ -1,0 +1,35 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:warped_fungus_on_a_stick",
+        "nbt": "{CustomModelData:4}"
+      },
+      "title": {
+        "translate": "advancement.jinxed.voodoo_doll_burnt"
+      },
+      "description": {
+        "translate": "advancement.jinxed.voodoo_doll_burnt.desc"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "jinxed:jinxed/doll_pricked",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:warped_fungus_on_a_stick"
+              ],
+              "nbt": "{jinxed:{id:\"burnt_voodoo_doll\"}}"
+            }
+          ]
+        }
+      }
+    }
+  }
+  

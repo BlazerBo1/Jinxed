@@ -1,0 +1,44 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:potion",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "translate": "item.jinxed.crimson_nectar",
+                  "italic": false
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "translate": "item.jinxed.crimson_nectar.desc",
+                    "italic": false
+                  },
+                  {
+                    "translate": "pack.jinxed",
+                    "color": "red",
+                    "bold": false,
+                    "italic": false
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{HideFlags:32,CustomModelData:1,jinxed:{id:\"crimson_nectar\"}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

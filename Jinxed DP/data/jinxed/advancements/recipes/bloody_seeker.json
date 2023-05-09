@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "jinxed:recipes/bloody_seeker"
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "jinxed:bloody_seeker"
+      }
+    }
+  }
+}

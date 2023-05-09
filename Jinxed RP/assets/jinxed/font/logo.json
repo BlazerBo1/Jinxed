@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "jinxed:gui/jinxed_mini.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "\ua011"
+      ]
+    }
+  ]
+}

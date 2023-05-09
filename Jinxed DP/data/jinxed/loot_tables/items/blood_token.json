@@ -1,0 +1,51 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "item.jinxed.blood_token",
+                "bold": false,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "item.jinxed.blood_token.desc",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "translate": "pack.jinxed",
+                  "with": [
+                    {
+                      "text": "\ua011",
+                      "font": "jinxed:logo"
+                    }
+                  ],
+                  "color": "red",
+                  "bold": false,
+                  "italic": false,
+                  "insertion": "h"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:6, effect:\"glowing\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

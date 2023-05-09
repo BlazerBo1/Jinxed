@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/rotten_flesh"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 2}, "model": "jinxed:item/flesh"}
+    {"predicate": {"custom_model_data": 2}, "model": "jinxed:item/flesh"},
+    {"predicate": {"custom_model_data": 3}, "model": "jinxed:item/goat_meat"},
+    {"predicate": {"custom_model_data": 4}, "model": "jinxed:item/piglin_skin"}
   ]
 }

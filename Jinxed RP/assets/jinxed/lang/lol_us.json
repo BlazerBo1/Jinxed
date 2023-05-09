@@ -1,14 +1,31 @@
 {
 "pack.jinxed": "SpOoKy DaTaPaCk 2.0",
+
 "item.jinxed.flesh": "Taestz Laik Mold-e Brokali",
-"item.jinxed.flesh.desc": "I'm blazer and I made jinxed, The thing you downloaded...",
-"item.jinxed.sacrificial_book": "§4SpOoKy Book",
-"item.jinxed.sacrificial_book.desc": "§8SpOoKy Book Iz Bein Vewy SpOoKyz",
-"item.jinxed.memoir": "§1Te SpOoKyER Book",
+"item.jinxed.flesh.desc": "It wigglz iN Me handz",
+"item.jinxed.sacrificial_book": "§4§lSpOoKy Bok",
+"item.jinxed.sacrificial_book.desc": "SpOoKy Bok Iz Bein Vewy SpOoKyz",
+"item.jinxed.memoir": "§1§lSpOoKyER Bok",
 "item.jinxed.memoir.desc": "Vewy Old SpOoKy Bok",
-"item.jinxed.voodoo_doll": "VuDu Dol",
-"item.jinxed.voodoo_doll.desc": "Wight cwick 2 Jinxed a mobz.",
-"item.jinxed.voodoo_doll_pricked": "Pokd VuDu Dol",
-"item.jinxed.voodoo_doll_pricked.desc": "Alz damegez U tak wil efectz te Jinxed mobz.",
-"item.jinxed.voodoo_doll_pricked.desc2": "Will be destroyed when activated."
+"item.jinxed.voodoo_doll": "Vou-Duh Dol",
+"item.jinxed.voodoo_doll.desc": "Wight cwick 2 Jinxd a mobz.",
+"item.jinxed.voodoo_doll.desc2": "Shift + Wight cwick 2 Puppyteaw a mobz.",
+"item.jinxed.voodoo_doll_pricked": "Pokd Vou-Duh Dol",
+"item.jinxed.voodoo_doll_pricked.desc": "Wight cwick aftew yu tak damg to hawm te Jinx mob",
+"item.jinxed.voodoo_doll_pricked.desc2": "Ovewus mite destwoy the Vou-Duh Dol",
+"item.jinxed.voodoo_doll_burnt": "Brnt Vou-Duh Dol",
+"item.jinxed.voodoo_doll_burnt.desc": "God jop, Yu brnt it",
+"item.jinxed.voodoo_doll_burnt.desc2": "As a consolation, you can use it as fuel in a Furnace",
+"item.jinxed.chalk": "Crimson Chalk",
+"item.jinxed.chalk.desc": "Scribe the Circle",
+"item.jinxed.meat_biscuit": "Meat Biscuit",
+"item.jinxed.meat_biscuit.desc": "I wouldn't advise eating this.",
+"item.jinxed.bloody_roots": "Bloody Roots",
+"item.jinxed.bloody_roots.desc": "Throw it!",
+
+"block.jinxed.sacrificial_table": "Sacrificial Table",
+"block.jinxed.sacrificial_table.desc": "It's bleeding?",
+
+"advancement.jinxed.root": "Jinxed",
+"advancement.jinxed.root.desc": "All things blood and guts"
 }

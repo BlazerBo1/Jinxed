@@ -1,0 +1,35 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:barrel",
+        "nbt": "{CustomModelData:3}"
+      },
+      "title": {
+        "translate": "advancement.jinxed.table"
+      },
+      "description": {
+        "translate": "advancement.jinxed.table.desc"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "jinxed:jinxed/flesh",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:barrel"
+              ],
+              "nbt": "{jinxed:{id:\"table\"}}"
+            }
+          ]
+        }
+      }
+    }
+  }
+  

@@ -1,9 +1,13 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/structure_block"
-  },
+  "parent": "minecraft:block/structure_block",
   "overrides": [
-    {"predicate": {"custom_model_data": 2}, "model": "jinxed:block/table"}
+    {"predicate": {"custom_model_data": 3}, "model": "jinxed:block/gnarled_maw"},
+    {"predicate": {"custom_model_data": 4}, "model": "jinxed:block/summoning_circle"},
+    {"predicate": {"custom_model_data": 5}, "model": "jinxed:block/blood_cauldron"},
+    {"predicate": {"custom_model_data": 6}, "model": "jinxed:item/acheivment"},
+    {"predicate": {"custom_model_data": 7}, "model": "jinxed:item/thing"},
+    {"predicate": {"custom_model_data": 8}, "model": "jinxed:item/bloody_seeker"},
+    {"predicate": {"custom_model_data": 9}, "model": "jinxed:block/crimson_gourd"},
+    {"predicate": {"custom_model_data": 10}, "model": "jinxed:item/flesh_croc"}
   ]
 }

@@ -1,0 +1,4 @@
+title @s title {"text": "Welcome to Jinxed!","color": "red"}
+tellraw @s {"text": "Welcome to Jinxed!","color": "red"} 
+tellraw @s [{"text":"You can view the wiki here!","color":"dark_gray","bold":true,"italic":false,"hoverEvent":{"action":"show_text","contents":[{"text":"Click to go to the jinxed wiki"}]},"clickEvent":{"action":"open_url","value":"https://github.com/BlazerBo1/Jinxed/wiki"}},{"text":"\uE001","font":"minecraft:default","color":"white"}]
+tellraw @s [{"text":"Maybe you want to join the discord server?","color":"#5865f2","bold":true,"italic":false,"hoverEvent":{"action":"show_text","contents":[{"text":"Click to join the jinxed discord server"}]},"clickEvent":{"action":"open_url","value":"https://discord.gg/GuVypdfp"}},{"text":"\uE000","font":"minecraft:default","color":"white"}]

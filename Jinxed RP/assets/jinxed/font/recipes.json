@@ -1,0 +1,40 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "jinxed:gui/advancment.recipes/bloody_seeker.png",
+      "ascent": 5,
+      "height": 48,
+      "chars": [
+        "\ua009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "jinxed:gui/advancment.recipes/voodoo_doll.png",
+      "ascent": 5,
+      "height": 48,
+      "chars": [
+        "\ua010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "jinxed:gui/advancment.recipes/meat_biscuit.png",
+      "ascent": 5,
+      "height": 48,
+      "chars": [
+        "\ua011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "jinxed:gui/advancment.recipes/sacrificial_table.png",
+      "ascent": 5,
+      "height": 48,
+      "chars": [
+        "\ua012"
+      ]
+    }
+  ]
+}

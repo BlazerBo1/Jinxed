@@ -1,0 +1,1 @@
+execute align xyz run summon minecraft:item_display ~0.5 ~ ~0.5 {Tags:["crafter"],item:{id:"structure_block",Count:1d,tag:{CustomModelData:3b}},transformation:[1.000f, 0.000f, 0.000f,0.000f,0.000f, 1.000f, 0.000f,-0.500f,0.000f, 0.000f, 1.000f,0.000f,0.000f, 0.000f, 0.000f,1.000f]}

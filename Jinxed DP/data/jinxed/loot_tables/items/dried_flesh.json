@@ -1,0 +1,44 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:cooked_beef",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "translate": "item.jinxed.dried_flesh",
+                  "italic": false
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "translate": "item.jinxed.dried_flesh.desc",
+                    "italic": false
+                  },
+                  {
+                    "translate": "pack.jinxed",
+                    "color": "red",
+                    "bold": false, 
+                    "italic": false
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{CustomModelData:2,jinxed:{id:\"dried_flesh\"}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

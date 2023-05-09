@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jinxed:item/crimson_nectar_overlay",
+    "layer1": "jinxed:item/crimson_nectar"
+  }
+}

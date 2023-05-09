@@ -1,0 +1,1 @@
+title @s title {"text": "\uA001","font": "jinxed:icon","color": "white"}

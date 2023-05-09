@@ -13,7 +13,15 @@
       "type": "space",
       "advances": {
         "\uB000": -1
-      }
+      },
+    {
+      "type": "bitmap",
+      "file": "jinxed:gui/discord.png",
+      "height": 180,
+      "ascent": 36,
+      "chars": [
+        "\dis123"
+      ]
     }
   ]
 }

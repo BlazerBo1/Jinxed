@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_beef"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 2}, "model": "jinxed:item/dried_flesh"},
+    {"predicate": {"custom_model_data": 3}, "model": "jinxed:item/cooked_goat_meat"}
+  ]
+}

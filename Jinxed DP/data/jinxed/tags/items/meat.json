@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+      "beef",
+      "chicken",
+      "rabbit",
+      "porkchop",
+      "mutton",
+      "rotten_flesh"
+    ]
+  }
+  

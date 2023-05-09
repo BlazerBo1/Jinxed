@@ -1,0 +1,44 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:rotten_flesh",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "translate": "item.jinxed.goat_meat",
+                  "italic": false
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "translate": "item.jinxed.goat_meat.desc",
+                    "italic": false
+                  },
+                  {
+                    "translate": "pack.jinxed",
+                    "color": "red",
+                    "bold": false,
+                    "italic": false
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{CustomModelData:3,jinxed:{id:\"goat_meat\"}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

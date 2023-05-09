@@ -1,0 +1,25 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:furnace",
+        "nbt": "{}"
+      },
+      "title": {
+        "translate": "advancement.jinxed.voodoo_doll_burnt"
+      },
+      "description": {
+        "translate": "advancement.jinxed.voodoo_doll_burnt.desc"
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "jinxed:jinxed/doll_burnt",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

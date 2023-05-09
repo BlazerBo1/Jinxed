@@ -1,0 +1,2 @@
+title @p title [{"text":"⚠ ","color":"dark_red","bold":true},{"text":"W","color":"yellow"},{"text":"A","color":"dark_gray"},{"text":"R","color":"yellow"},{"text":"N","color":"dark_gray"},{"text":"I","color":"yellow"},{"text":"N","color":"dark_gray"},{"text":"G","color":"yellow"},{"text":" ⚠ "}]
+title @p subtitle {"text":"Please remove Sanguine or Jinxed.","color":"red"}

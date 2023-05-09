@@ -1,0 +1,43 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:barrel",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "block.jinxed.sacrificial_table",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "block.jinxed.sacrificial_table.desc",
+                  "italic": false
+                },
+                {
+                  "translate": "pack.jinxed",
+                  "color": "red",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:3,jinxed:{id:\"table\"}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

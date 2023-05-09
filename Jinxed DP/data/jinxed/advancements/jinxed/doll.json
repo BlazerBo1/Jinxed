@@ -1,0 +1,42 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:warped_fungus_on_a_stick",
+        "nbt": "{CustomModelData:2}"
+      },
+      "title": {
+        "translate": "advancement.jinxed.voodoo_doll"
+      },
+      "description": [
+        {"translate": "advancement.jinxed.voodoo_doll.desc"},
+        "\n",
+        {"text":"\ua010","font":"jinxed:recipes","color":"white"},
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "jinxed:jinxed/root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:warped_fungus_on_a_stick"
+              ],
+              "nbt": "{jinxed:{id:\"voodoo_doll\"}}"
+            }
+          ]
+        }
+      }
+    }
+  }
+  

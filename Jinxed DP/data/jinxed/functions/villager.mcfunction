@@ -1,0 +1,1 @@
+summon villager ~ ~1 ~ {VillagerData:{profession:nitwit,level:2,type:plains},PersistenceRequired:1,Offers:{Recipes:[{buy:{id:cooked_beef,Count:1},buyB:{id:glass_bottle,Count:1},sell:{id:acacia_leaves,Count:1,tag:{display:{Name:"\"l\""}}},rewardExp:0b,maxUses:9999999}]}}
